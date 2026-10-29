@@ -1,0 +1,601 @@
+highest_qualification,experience_level,preferred_domain,interest,python,sql,excel,statistics,data_visualization,machine_learning,deep_learning,web_development,testing,cloud,business_analysis,communication,problem_solving,teamwork,critical_thinking,career_role
+Bachelor's,Advanced,Data & Analytics,Quality and testing,0,1,1,1,1,0,0,1,0,0,0,1,1,0,1,Data Analyst
+Other,Intermediate,Business & Product,Building products,1,0,1,0,0,0,0,1,1,1,0,1,1,1,0,Software Developer
+Other,Beginner,Data & Analytics,Building products,1,0,0,0,0,0,0,1,1,1,0,1,1,1,0,Software Developer
+Bachelor's,Beginner,Data & Analytics,Working with data,1,1,1,1,1,0,0,0,1,0,0,1,0,0,1,Data Analyst
+Diploma,Intermediate,Business & Product,Solving business problems,0,0,1,0,1,1,0,0,0,0,1,1,0,1,1,Business Analyst
+Diploma,Beginner,Software & Cloud,Quality and testing,0,1,0,0,0,0,0,1,0,1,0,1,1,1,0,QA Analyst
+Master's,Advanced,Software & Cloud,Artificial intelligence,1,1,0,1,1,1,0,1,0,1,0,0,0,0,1,Data Scientist
+Other,Intermediate,Software & Cloud,Building products,1,0,1,0,0,0,0,1,1,1,0,1,1,1,0,Software Developer
+Bachelor's,Intermediate,Software & Cloud,Quality and testing,1,1,1,0,0,0,1,1,1,0,0,1,1,1,0,QA Analyst
+Diploma,Intermediate,AI & Machine Learning,Quality and testing,0,1,1,0,0,0,0,1,0,1,0,1,1,1,0,QA Analyst
+Bachelor's,Advanced,Explore all,Working with data,0,1,1,1,1,0,1,1,0,0,0,1,0,0,1,Data Analyst
+Master's,Beginner,AI & Machine Learning,Artificial intelligence,1,0,0,1,1,1,0,0,0,0,0,0,0,0,1,Data Scientist
+Other,Advanced,Software & Cloud,Quality and testing,0,1,0,0,0,0,0,1,1,0,0,1,1,1,0,QA Analyst
+Bachelor's,Beginner,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,0,0,0,1,0,1,1,1,1,Machine Learning Engineer
+Other,Intermediate,Software & Cloud,Building products,1,0,0,0,0,0,0,1,1,1,0,1,0,1,0,Software Developer
+Master's,Advanced,Data & Analytics,Artificial intelligence,0,1,0,0,1,1,0,1,0,0,0,0,0,0,1,Data Scientist
+Diploma,Beginner,Data & Analytics,Solving business problems,0,1,1,1,1,0,0,0,0,0,0,1,0,0,1,Data Analyst
+Master's,Intermediate,AI & Machine Learning,Artificial intelligence,1,1,0,1,1,1,0,0,1,1,0,0,0,0,1,Data Scientist
+Other,Beginner,Software & Cloud,Quality and testing,1,1,0,0,1,0,0,1,1,1,0,1,1,1,0,Software Developer
+Diploma,Advanced,Data & Analytics,Working with data,0,0,1,1,1,0,0,0,0,1,0,1,1,0,1,Data Analyst
+Master's,Intermediate,Business & Product,Artificial intelligence,1,1,0,1,0,1,0,0,0,1,0,0,1,1,0,Machine Learning Engineer
+Bachelor's,Beginner,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,0,0,0,1,0,0,1,1,0,Machine Learning Engineer
+Master's,Intermediate,AI & Machine Learning,Artificial intelligence,0,1,1,1,0,1,0,0,0,1,0,0,1,1,1,Machine Learning Engineer
+Other,Intermediate,Software & Cloud,Quality and testing,0,1,0,0,0,0,1,1,1,0,0,1,1,1,0,QA Analyst
+Bachelor's,Beginner,AI & Machine Learning,Artificial intelligence,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,Data Scientist
+Bachelor's,Beginner,Explore all,Artificial intelligence,1,1,0,1,0,1,0,0,1,0,0,0,0,1,1,Data Scientist
+Master's,Beginner,AI & Machine Learning,Solving business problems,0,1,0,1,1,1,1,0,0,0,1,0,0,0,0,Data Scientist
+Bachelor's,Intermediate,Data & Analytics,Artificial intelligence,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,Data Scientist
+Bachelor's,Beginner,Explore all,Quality and testing,0,1,0,0,0,1,0,1,1,0,1,1,1,1,0,QA Analyst
+Other,Beginner,Software & Cloud,Building products,1,0,0,0,0,0,0,1,1,1,0,1,1,1,0,Software Developer
+Bachelor's,Advanced,AI & Machine Learning,Artificial intelligence,1,1,0,1,1,1,1,0,0,1,0,0,0,1,1,Data Scientist
+Diploma,Beginner,Data & Analytics,Building products,1,0,0,0,0,1,0,0,1,1,0,1,1,1,1,Software Developer
+Bachelor's,Beginner,AI & Machine Learning,Artificial intelligence,0,1,0,1,0,0,0,0,0,1,0,0,1,1,0,Machine Learning Engineer
+Diploma,Intermediate,Data & Analytics,Solving business problems,1,1,1,1,1,1,0,0,0,1,0,1,0,0,1,Data Analyst
+Other,Beginner,Data & Analytics,Building products,1,0,0,0,0,1,1,0,1,1,0,1,1,1,0,Software Developer
+Bachelor's,Beginner,AI & Machine Learning,Working with data,1,1,0,1,0,1,0,0,0,1,0,0,1,1,0,Machine Learning Engineer
+Diploma,Intermediate,Explore all,Quality and testing,0,1,0,0,1,0,0,1,1,1,0,1,1,1,0,QA Analyst
+Bachelor's,Beginner,Data & Analytics,Working with data,0,1,1,1,1,0,0,1,0,0,0,1,0,0,1,Data Analyst
+Bachelor's,Beginner,Data & Analytics,Working with data,1,1,1,1,1,0,0,0,0,0,0,1,0,0,1,Data Analyst
+Bachelor's,Beginner,Software & Cloud,Building products,1,1,0,0,0,0,0,1,1,1,0,1,0,0,0,Software Developer
+Diploma,Intermediate,Software & Cloud,Quality and testing,0,1,0,0,0,0,0,1,1,1,0,1,1,1,0,QA Analyst
+Bachelor's,Advanced,AI & Machine Learning,Artificial intelligence,0,1,0,1,1,1,0,0,0,1,0,0,0,0,1,Data Scientist
+Diploma,Intermediate,Business & Product,Solving business problems,0,0,1,1,0,1,0,1,1,0,1,1,1,0,1,Business Analyst
+Bachelor's,Advanced,Business & Product,Working with data,0,1,1,1,0,0,0,0,0,0,0,1,0,0,1,Data Analyst
+Bachelor's,Intermediate,Data & Analytics,Quality and testing,1,1,0,1,0,1,1,0,0,1,0,0,0,1,1,Data Scientist
+Diploma,Advanced,Business & Product,Working with data,0,1,1,1,1,0,0,0,0,0,0,1,0,0,1,Data Analyst
+Other,Beginner,Software & Cloud,Quality and testing,0,1,0,0,0,0,0,1,0,0,0,1,1,1,1,QA Analyst
+Bachelor's,Beginner,Software & Cloud,Building products,1,0,0,0,0,0,0,1,1,1,0,1,1,1,0,Software Developer
+Master's,Beginner,AI & Machine Learning,Artificial intelligence,1,1,0,1,1,1,0,0,0,0,0,0,0,0,1,Data Scientist
+Bachelor's,Advanced,Explore all,Working with data,0,1,1,1,1,1,0,0,0,0,0,1,0,0,1,Data Analyst
+Bachelor's,Intermediate,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,0,0,0,1,1,0,1,1,0,Machine Learning Engineer
+Bachelor's,Intermediate,AI & Machine Learning,Building products,1,0,1,1,1,0,0,0,1,0,0,0,0,0,1,Data Scientist
+Bachelor's,Beginner,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,0,0,0,1,0,0,1,1,0,Machine Learning Engineer
+Bachelor's,Beginner,Business & Product,Solving business problems,0,0,1,1,0,0,0,0,0,0,1,1,1,1,1,Business Analyst
+Master's,Beginner,Business & Product,Solving business problems,0,0,1,0,1,0,0,0,0,0,1,1,1,1,1,Business Analyst
+Other,Advanced,Software & Cloud,Building products,1,0,1,0,0,0,0,1,1,1,0,1,1,1,0,Software Developer
+Bachelor's,Intermediate,Software & Cloud,Building products,0,1,0,1,0,0,0,1,1,0,0,1,1,1,0,QA Analyst
+Bachelor's,Beginner,Business & Product,Solving business problems,0,0,1,0,1,1,0,0,0,0,1,1,1,1,1,Business Analyst
+Diploma,Beginner,Software & Cloud,Quality and testing,0,1,0,1,1,0,1,1,1,0,0,1,1,1,0,QA Analyst
+Bachelor's,Intermediate,Business & Product,Solving business problems,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,Business Analyst
+Bachelor's,Intermediate,Data & Analytics,Working with data,0,1,1,1,1,0,0,0,0,0,1,1,0,0,1,Data Analyst
+Master's,Intermediate,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,0,0,0,1,1,0,1,1,0,Machine Learning Engineer
+Bachelor's,Beginner,Software & Cloud,Quality and testing,0,1,0,0,0,0,0,1,1,0,0,1,1,1,0,QA Analyst
+Master's,Beginner,Business & Product,Solving business problems,1,0,1,0,0,0,0,0,0,0,1,1,1,1,1,Business Analyst
+Bachelor's,Beginner,Software & Cloud,Building products,0,1,0,0,0,0,0,1,0,0,0,1,1,1,0,Software Developer
+Bachelor's,Intermediate,Software & Cloud,Building products,1,0,0,0,0,0,0,1,1,1,1,1,1,1,0,Software Developer
+Diploma,Beginner,Software & Cloud,Building products,1,0,0,0,1,0,0,1,1,1,0,1,1,1,0,Software Developer
+Diploma,Intermediate,Software & Cloud,Building products,1,1,0,0,0,0,0,1,0,1,0,1,1,1,0,Software Developer
+Master's,Advanced,AI & Machine Learning,Artificial intelligence,1,1,0,1,1,1,0,0,0,0,1,0,0,1,0,Data Scientist
+Bachelor's,Beginner,Business & Product,Artificial intelligence,1,0,0,1,1,0,0,0,0,0,1,1,0,0,1,Data Scientist
+Other,Beginner,Software & Cloud,Building products,1,0,0,0,0,0,0,1,1,1,0,1,1,1,0,Software Developer
+Bachelor's,Beginner,Software & Cloud,Building products,1,0,0,0,0,0,0,1,1,1,1,1,0,1,0,Software Developer
+Master's,Intermediate,Data & Analytics,Artificial intelligence,1,1,0,1,0,1,1,0,0,0,0,0,0,0,1,Data Scientist
+Master's,Intermediate,AI & Machine Learning,Artificial intelligence,1,1,0,0,0,1,0,0,0,1,0,1,1,1,0,Machine Learning Engineer
+Diploma,Intermediate,Software & Cloud,Quality and testing,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,QA Analyst
+Bachelor's,Intermediate,Business & Product,Solving business problems,0,0,1,0,0,0,0,0,0,0,1,1,1,0,1,Business Analyst
+Bachelor's,Intermediate,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,0,0,0,1,0,0,1,1,0,Machine Learning Engineer
+Master's,Beginner,AI & Machine Learning,Artificial intelligence,0,1,0,1,1,1,0,0,0,0,0,0,0,0,1,Data Scientist
+Bachelor's,Intermediate,AI & Machine Learning,Artificial intelligence,1,1,1,1,1,1,0,1,0,0,0,0,0,0,1,Data Scientist
+Master's,Intermediate,Business & Product,Artificial intelligence,1,1,0,0,0,1,0,0,0,0,1,1,0,0,1,Data Scientist
+Master's,Advanced,AI & Machine Learning,Artificial intelligence,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,Data Scientist
+Diploma,Advanced,Software & Cloud,Quality and testing,0,1,0,0,0,0,0,1,1,0,0,1,1,1,0,QA Analyst
+Master's,Beginner,AI & Machine Learning,Artificial intelligence,1,1,0,1,1,1,0,0,0,1,0,0,1,1,0,Machine Learning Engineer
+Diploma,Beginner,Data & Analytics,Working with data,0,1,1,1,1,1,0,0,0,0,0,0,0,0,1,Data Analyst
+Other,Beginner,AI & Machine Learning,Quality and testing,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,QA Analyst
+Diploma,Beginner,Software & Cloud,Building products,1,0,0,0,0,0,0,1,1,1,0,1,1,1,0,Software Developer
+Other,Advanced,Software & Cloud,Building products,1,0,0,1,0,1,0,1,1,1,0,1,1,1,0,Software Developer
+Master's,Intermediate,Data & Analytics,Working with data,0,1,0,1,1,0,0,0,0,1,0,1,0,0,0,Data Analyst
+Master's,Intermediate,Business & Product,Solving business problems,0,0,1,0,1,0,0,0,0,0,1,1,0,1,1,Business Analyst
+Bachelor's,Advanced,Business & Product,Solving business problems,0,0,1,0,0,0,0,0,0,0,1,0,1,1,1,Business Analyst
+Master's,Beginner,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,0,1,0,1,1,0,1,1,0,Machine Learning Engineer
+Master's,Beginner,Data & Analytics,Artificial intelligence,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,Machine Learning Engineer
+Bachelor's,Intermediate,Business & Product,Solving business problems,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,Business Analyst
+Other,Intermediate,Software & Cloud,Quality and testing,0,1,0,0,0,0,1,1,1,0,0,1,1,1,1,QA Analyst
+Bachelor's,Beginner,Software & Cloud,Building products,1,1,0,1,1,1,0,0,0,0,0,1,0,1,1,Data Scientist
+Diploma,Beginner,Data & Analytics,Working with data,0,1,1,1,1,0,0,1,0,0,0,1,0,1,1,Data Analyst
+Diploma,Intermediate,Business & Product,Solving business problems,1,0,1,0,1,0,0,0,1,0,1,1,1,1,1,Business Analyst
+Diploma,Advanced,Software & Cloud,Working with data,0,1,1,1,1,0,0,0,0,0,0,1,0,0,1,Data Analyst
+Diploma,Intermediate,Business & Product,Building products,1,0,0,0,0,0,0,1,1,1,0,1,1,0,0,Software Developer
+Master's,Beginner,AI & Machine Learning,Artificial intelligence,0,1,0,1,0,1,0,0,0,1,1,0,1,1,0,Machine Learning Engineer
+Bachelor's,Beginner,AI & Machine Learning,Artificial intelligence,1,1,1,1,1,1,1,0,0,0,0,0,0,0,1,Data Scientist
+Master's,Intermediate,Data & Analytics,Working with data,0,1,1,1,1,0,0,1,0,1,1,1,0,0,1,Data Analyst
+Diploma,Advanced,AI & Machine Learning,Solving business problems,0,0,1,0,0,0,0,0,1,1,1,1,1,1,1,Business Analyst
+Master's,Advanced,AI & Machine Learning,Solving business problems,1,1,0,1,1,1,0,0,1,0,0,0,0,1,1,Data Scientist
+Master's,Beginner,Data & Analytics,Working with data,0,1,1,1,1,0,0,0,1,0,0,1,0,0,1,Data Analyst
+Bachelor's,Beginner,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,1,0,1,1,0,0,1,1,0,Machine Learning Engineer
+Master's,Intermediate,Data & Analytics,Artificial intelligence,1,1,1,1,1,0,0,0,0,0,0,1,0,0,1,Data Analyst
+Bachelor's,Intermediate,Software & Cloud,Quality and testing,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,QA Analyst
+Diploma,Beginner,Software & Cloud,Solving business problems,1,0,0,1,0,0,0,1,1,1,0,1,1,1,1,Software Developer
+Diploma,Intermediate,Data & Analytics,Working with data,0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,Data Analyst
+Bachelor's,Intermediate,Software & Cloud,Quality and testing,0,1,1,0,0,0,0,1,1,0,0,1,1,1,0,QA Analyst
+Bachelor's,Intermediate,Software & Cloud,Building products,1,0,0,0,0,0,0,0,1,1,0,1,1,1,0,Software Developer
+Diploma,Intermediate,Business & Product,Solving business problems,0,0,1,0,0,1,0,0,0,0,1,1,1,1,1,Business Analyst
+Other,Beginner,Business & Product,Quality and testing,0,0,0,0,0,0,0,1,1,1,0,1,1,1,0,QA Analyst
+Diploma,Intermediate,Business & Product,Solving business problems,0,0,1,0,0,0,0,1,0,0,1,1,1,1,1,Business Analyst
+Master's,Beginner,AI & Machine Learning,Working with data,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,Business Analyst
+Bachelor's,Beginner,AI & Machine Learning,Artificial intelligence,1,1,1,1,0,0,1,0,0,1,0,1,1,1,0,Machine Learning Engineer
+Diploma,Intermediate,Data & Analytics,Working with data,0,1,1,1,1,0,0,0,0,0,0,0,1,0,1,Data Analyst
+Other,Beginner,Software & Cloud,Solving business problems,1,1,0,1,0,1,0,1,1,0,0,1,1,1,0,QA Analyst
+Master's,Beginner,AI & Machine Learning,Artificial intelligence,0,1,0,1,1,1,0,0,1,1,0,0,1,1,0,Machine Learning Engineer
+Other,Intermediate,Software & Cloud,Quality and testing,0,1,0,0,0,1,0,1,1,0,0,1,1,1,0,QA Analyst
+Master's,Beginner,Data & Analytics,Working with data,0,1,1,0,1,0,0,0,0,0,0,1,0,0,1,Data Analyst
+Diploma,Beginner,Business & Product,Building products,0,0,1,0,0,0,1,0,0,1,1,1,1,1,1,Business Analyst
+Bachelor's,Beginner,Business & Product,Quality and testing,1,0,1,0,0,0,0,0,1,0,1,1,1,1,1,Business Analyst
+Diploma,Beginner,Data & Analytics,Working with data,0,1,1,1,1,0,0,0,0,0,0,1,0,0,1,Data Analyst
+Diploma,Beginner,Data & Analytics,Solving business problems,0,1,1,0,0,0,0,1,1,0,0,1,1,1,0,QA Analyst
+Bachelor's,Intermediate,Explore all,Artificial intelligence,1,1,0,1,0,1,0,0,0,0,0,0,1,1,0,Machine Learning Engineer
+Diploma,Beginner,Business & Product,Solving business problems,1,0,0,0,1,0,0,0,0,0,1,1,1,1,1,Business Analyst
+Master's,Intermediate,Data & Analytics,Artificial intelligence,0,1,1,1,1,0,1,0,0,0,0,0,0,0,1,Data Analyst
+Bachelor's,Beginner,AI & Machine Learning,Building products,1,1,0,0,0,1,0,0,0,1,0,0,1,1,0,Machine Learning Engineer
+Bachelor's,Intermediate,Explore all,Building products,0,1,0,0,0,1,0,1,1,0,0,1,1,1,0,QA Analyst
+Bachelor's,Beginner,Business & Product,Solving business problems,0,0,1,1,0,0,0,0,0,0,1,1,1,1,1,Business Analyst
+Bachelor's,Beginner,Explore all,Working with data,0,1,1,1,1,0,0,0,0,0,0,1,0,0,1,Data Analyst
+Bachelor's,Intermediate,Business & Product,Solving business problems,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,Business Analyst
+Master's,Beginner,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,0,0,1,0,1,0,1,1,1,0,Machine Learning Engineer
+Diploma,Beginner,Software & Cloud,Working with data,1,0,0,0,0,0,0,1,1,1,0,1,1,1,0,Software Developer
+Bachelor's,Beginner,AI & Machine Learning,Solving business problems,1,1,0,1,0,1,0,0,0,1,0,0,1,1,0,Machine Learning Engineer
+Bachelor's,Beginner,AI & Machine Learning,Quality and testing,1,1,0,1,0,1,0,0,0,1,0,0,1,1,0,Machine Learning Engineer
+Diploma,Beginner,Software & Cloud,Building products,1,0,0,0,0,1,0,1,1,1,0,1,1,1,0,Software Developer
+Bachelor's,Beginner,Data & Analytics,Working with data,0,1,1,1,1,0,0,0,1,0,0,1,0,0,0,Data Analyst
+Master's,Beginner,Software & Cloud,Quality and testing,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,Data Scientist
+Diploma,Intermediate,Business & Product,Solving business problems,0,0,0,0,0,0,0,0,1,0,0,1,1,1,1,Business Analyst
+Bachelor's,Intermediate,Data & Analytics,Working with data,0,1,1,1,1,0,0,0,0,0,0,1,1,0,0,Data Analyst
+Master's,Beginner,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,0,0,0,1,0,0,1,1,0,Machine Learning Engineer
+Diploma,Beginner,Business & Product,Solving business problems,0,0,1,1,0,0,0,1,0,0,1,1,1,1,1,Business Analyst
+Diploma,Beginner,Business & Product,Solving business problems,0,0,1,1,1,0,0,1,0,0,1,1,1,1,1,Business Analyst
+Bachelor's,Advanced,Business & Product,Solving business problems,0,0,1,0,1,0,0,1,1,0,1,1,1,0,1,Business Analyst
+Diploma,Intermediate,Data & Analytics,Working with data,0,1,1,0,1,0,0,0,0,0,0,1,0,0,1,Data Analyst
+Bachelor's,Advanced,Software & Cloud,Building products,0,1,0,0,0,0,0,1,1,0,0,1,1,1,0,QA Analyst
+Bachelor's,Intermediate,Software & Cloud,Building products,1,0,0,0,0,0,0,0,1,1,0,1,1,1,0,Software Developer
+Bachelor's,Intermediate,AI & Machine Learning,Working with data,0,1,1,1,1,0,0,0,0,0,0,1,0,0,1,Data Analyst
+Other,Beginner,Software & Cloud,Quality and testing,0,1,1,0,0,1,0,1,1,0,0,1,1,1,0,QA Analyst
+Bachelor's,Beginner,Software & Cloud,Building products,1,0,1,0,0,0,0,1,1,1,0,1,1,1,0,Software Developer
+Diploma,Intermediate,Explore all,Solving business problems,0,0,1,0,0,1,0,0,0,0,1,1,1,1,0,Business Analyst
+Bachelor's,Intermediate,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,0,0,0,1,0,1,1,1,1,Machine Learning Engineer
+Bachelor's,Advanced,Explore all,Quality and testing,0,1,0,1,0,0,0,1,1,0,0,1,1,1,1,QA Analyst
+Master's,Advanced,AI & Machine Learning,Artificial intelligence,1,1,0,1,1,1,0,1,1,0,0,0,0,0,1,Data Scientist
+Master's,Intermediate,Data & Analytics,Working with data,0,1,1,1,1,0,0,0,1,0,0,1,0,0,1,Data Analyst
+Bachelor's,Beginner,Data & Analytics,Working with data,1,1,1,1,1,0,0,0,0,0,0,1,1,0,1,Data Analyst
+Master's,Beginner,Business & Product,Artificial intelligence,1,1,0,1,1,1,0,0,0,1,0,0,1,1,0,Machine Learning Engineer
+Diploma,Intermediate,Software & Cloud,Quality and testing,0,1,0,0,0,0,0,1,1,0,0,1,1,1,0,QA Analyst
+Diploma,Intermediate,Software & Cloud,Quality and testing,0,1,0,1,0,0,0,1,1,0,0,1,0,1,0,QA Analyst
+Bachelor's,Intermediate,Data & Analytics,Working with data,0,1,1,1,1,0,0,0,0,0,0,1,0,1,1,Data Analyst
+Master's,Intermediate,AI & Machine Learning,Solving business problems,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,Business Analyst
+Master's,Intermediate,AI & Machine Learning,Solving business problems,1,1,1,1,0,1,0,0,0,1,1,0,1,1,1,Machine Learning Engineer
+Master's,Intermediate,AI & Machine Learning,Artificial intelligence,1,0,0,1,0,1,0,0,0,1,0,0,1,1,1,Machine Learning Engineer
+Diploma,Advanced,Data & Analytics,Working with data,1,1,1,1,1,0,0,0,1,0,0,1,0,0,1,Data Analyst
+Diploma,Beginner,Business & Product,Solving business problems,0,0,1,0,0,0,0,0,1,0,1,1,1,1,1,Business Analyst
+Master's,Intermediate,Explore all,Artificial intelligence,1,1,0,1,1,1,0,0,0,0,0,0,0,0,1,Data Scientist
+Master's,Beginner,Business & Product,Solving business problems,0,0,1,0,0,0,0,0,0,1,1,1,0,1,1,Business Analyst
+Diploma,Advanced,Business & Product,Solving business problems,0,0,1,0,0,0,0,0,0,0,1,1,1,1,0,Business Analyst
+Diploma,Intermediate,Business & Product,Quality and testing,0,1,0,0,0,0,0,1,1,0,0,0,1,1,0,QA Analyst
+Bachelor's,Intermediate,AI & Machine Learning,Working with data,1,1,0,1,0,1,0,0,0,1,0,0,1,1,0,Machine Learning Engineer
+Other,Beginner,Software & Cloud,Quality and testing,1,1,0,0,0,1,1,1,1,0,0,1,1,1,0,QA Analyst
+Other,Advanced,Software & Cloud,Building products,1,0,0,0,0,0,0,1,1,0,1,1,1,1,0,Software Developer
+Other,Intermediate,Software & Cloud,Quality and testing,0,1,0,1,1,0,0,1,1,0,0,1,1,1,0,QA Analyst
+Diploma,Intermediate,Data & Analytics,Quality and testing,0,1,1,1,1,0,1,0,0,0,0,0,0,0,1,Data Analyst
+Bachelor's,Beginner,AI & Machine Learning,Artificial intelligence,1,1,0,0,0,1,0,0,0,1,1,0,1,1,0,Machine Learning Engineer
+Master's,Beginner,AI & Machine Learning,Working with data,1,1,0,1,1,1,0,0,0,0,0,0,0,0,1,Data Scientist
+Master's,Beginner,Data & Analytics,Working with data,0,1,1,1,1,0,0,0,0,0,0,1,1,0,1,Data Analyst
+Diploma,Beginner,Software & Cloud,Quality and testing,0,1,0,0,0,0,0,1,1,0,1,0,1,1,0,QA Analyst
+Other,Beginner,Business & Product,Building products,1,0,0,0,1,1,0,1,1,0,0,1,1,1,0,Software Developer
+Bachelor's,Intermediate,AI & Machine Learning,Artificial intelligence,1,1,0,1,1,1,0,0,1,0,0,0,0,0,1,Data Scientist
+Bachelor's,Beginner,Business & Product,Solving business problems,0,0,1,0,0,0,0,0,1,0,0,1,0,0,1,Business Analyst
+Bachelor's,Beginner,Data & Analytics,Working with data,0,1,1,1,1,0,0,0,0,0,1,1,0,0,1,Data Analyst
+Bachelor's,Intermediate,Explore all,Artificial intelligence,1,1,0,1,0,1,0,0,0,1,0,0,1,1,0,Machine Learning Engineer
+Bachelor's,Beginner,AI & Machine Learning,Artificial intelligence,1,1,0,1,1,1,1,0,0,0,0,1,1,0,1,Data Scientist
+Bachelor's,Intermediate,Software & Cloud,Artificial intelligence,1,0,0,0,0,0,1,1,1,1,1,1,1,1,0,Software Developer
+Bachelor's,Advanced,Data & Analytics,Artificial intelligence,0,1,0,1,0,1,0,1,0,0,0,0,0,0,1,Data Scientist
+Master's,Intermediate,Business & Product,Solving business problems,0,0,1,1,0,0,0,0,0,0,1,1,1,1,1,Business Analyst
+Bachelor's,Beginner,Software & Cloud,Building products,1,1,0,0,0,0,0,1,1,1,0,1,1,1,0,Software Developer
+Diploma,Beginner,Software & Cloud,Solving business problems,1,0,0,0,0,0,0,0,0,1,0,1,1,1,0,Software Developer
+Master's,Intermediate,Data & Analytics,Working with data,0,1,1,1,1,0,0,1,0,0,0,1,0,0,1,Data Analyst
+Diploma,Beginner,Business & Product,Solving business problems,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Business Analyst
+Diploma,Beginner,Software & Cloud,Quality and testing,0,1,0,0,0,0,0,1,1,0,0,1,1,1,0,QA Analyst
+Master's,Intermediate,Business & Product,Solving business problems,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,Business Analyst
+Master's,Beginner,Business & Product,Solving business problems,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,Business Analyst
+Diploma,Advanced,Software & Cloud,Quality and testing,1,0,0,0,0,0,1,1,0,1,0,1,1,1,0,Software Developer
+Bachelor's,Beginner,AI & Machine Learning,Building products,1,1,0,1,1,1,0,0,0,0,0,0,0,1,1,Data Scientist
+Master's,Beginner,Explore all,Solving business problems,1,0,1,0,0,0,0,0,0,0,1,1,1,1,1,Business Analyst
+Master's,Beginner,AI & Machine Learning,Artificial intelligence,1,1,0,1,1,1,1,0,0,1,0,0,0,0,1,Data Scientist
+Bachelor's,Intermediate,Software & Cloud,Building products,0,0,0,0,0,0,1,1,1,0,0,1,1,1,0,Software Developer
+Bachelor's,Intermediate,Software & Cloud,Quality and testing,0,1,0,0,0,0,1,0,1,0,0,1,0,1,0,QA Analyst
+Bachelor's,Intermediate,Business & Product,Solving business problems,0,0,1,0,0,0,0,0,0,1,1,1,0,1,1,Business Analyst
+Master's,Advanced,AI & Machine Learning,Artificial intelligence,1,1,0,1,1,1,1,0,0,0,0,0,0,0,1,Data Scientist
+Bachelor's,Beginner,Data & Analytics,Building products,0,1,1,1,1,0,0,0,0,0,0,1,0,0,1,Data Analyst
+Bachelor's,Intermediate,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,0,0,0,1,0,0,1,1,0,Machine Learning Engineer
+Bachelor's,Intermediate,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,0,0,0,0,1,0,0,1,1,0,Machine Learning Engineer
+Master's,Advanced,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,0,0,0,1,0,0,1,1,1,Machine Learning Engineer
+Master's,Intermediate,Explore all,Artificial intelligence,1,1,0,1,0,1,0,0,0,1,0,0,1,1,0,Machine Learning Engineer
+Bachelor's,Intermediate,Data & Analytics,Working with data,0,0,1,1,1,0,0,1,0,1,0,1,1,0,1,Data Analyst
+Diploma,Intermediate,Business & Product,Working with data,0,0,1,1,0,0,0,0,0,1,1,1,1,1,1,Business Analyst
+Diploma,Beginner,Explore all,Quality and testing,0,1,0,0,0,0,0,1,1,0,1,1,1,0,0,QA Analyst
+Bachelor's,Beginner,Software & Cloud,Quality and testing,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,QA Analyst
+Diploma,Intermediate,Software & Cloud,Building products,1,0,0,0,0,0,0,1,0,1,0,1,1,1,0,Software Developer
+Bachelor's,Intermediate,Business & Product,Solving business problems,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,Business Analyst
+Bachelor's,Intermediate,Software & Cloud,Quality and testing,0,1,0,0,0,1,0,1,1,0,0,1,1,1,1,QA Analyst
+Bachelor's,Intermediate,Explore all,Artificial intelligence,1,1,1,1,0,1,1,0,0,0,0,0,0,0,1,Data Scientist
+Master's,Advanced,Software & Cloud,Solving business problems,0,0,1,1,0,0,0,1,0,0,1,1,1,1,1,Business Analyst
+Bachelor's,Intermediate,Business & Product,Solving business problems,0,0,1,1,0,0,0,0,0,0,1,1,1,1,1,Business Analyst
+Master's,Intermediate,Data & Analytics,Working with data,0,1,1,1,1,0,0,0,0,1,0,1,1,1,1,Data Analyst
+Other,Beginner,Data & Analytics,Building products,1,0,0,0,0,0,0,1,1,1,0,1,1,1,0,Software Developer
+Master's,Intermediate,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,0,0,0,1,0,0,1,1,0,Machine Learning Engineer
+Diploma,Beginner,Software & Cloud,Building products,0,1,0,0,0,1,0,1,1,0,0,1,1,1,0,QA Analyst
+Master's,Advanced,AI & Machine Learning,Artificial intelligence,1,1,0,1,1,1,0,0,0,1,0,0,0,0,1,Data Scientist
+Master's,Beginner,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,0,0,0,0,0,0,1,1,0,Machine Learning Engineer
+Bachelor's,Intermediate,AI & Machine Learning,Artificial intelligence,1,1,1,1,1,1,0,0,0,1,0,0,0,0,1,Data Scientist
+Master's,Beginner,AI & Machine Learning,Quality and testing,1,1,0,1,1,1,0,0,0,0,0,0,0,0,1,Data Scientist
+Diploma,Intermediate,Data & Analytics,Working with data,0,1,1,1,1,0,0,0,0,0,0,1,0,0,1,Data Analyst
+Bachelor's,Advanced,AI & Machine Learning,Quality and testing,1,1,0,1,0,1,0,0,0,1,0,0,1,1,0,Machine Learning Engineer
+Bachelor's,Intermediate,Business & Product,Solving business problems,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,Business Analyst
+Diploma,Advanced,Software & Cloud,Quality and testing,0,1,0,0,0,0,0,1,1,0,0,1,1,1,0,QA Analyst
+Other,Intermediate,Software & Cloud,Working with data,0,1,0,0,0,0,1,1,1,0,0,1,1,1,0,QA Analyst
+Bachelor's,Beginner,Business & Product,Solving business problems,0,0,1,0,0,0,0,1,0,0,1,1,1,0,1,Business Analyst
+Bachelor's,Beginner,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,0,0,0,1,0,0,0,0,1,Data Scientist
+Bachelor's,Advanced,AI & Machine Learning,Artificial intelligence,1,0,0,1,1,1,1,0,0,0,0,0,0,0,1,Data Scientist
+Bachelor's,Intermediate,Software & Cloud,Building products,1,0,0,1,0,0,0,1,1,1,1,1,1,1,0,Software Developer
+Diploma,Intermediate,Software & Cloud,Building products,1,0,0,0,0,0,0,1,1,1,0,1,1,1,0,Software Developer
+Other,Intermediate,Software & Cloud,Quality and testing,0,1,0,0,0,0,0,1,1,1,0,1,0,1,1,QA Analyst
+Diploma,Beginner,Data & Analytics,Working with data,1,0,1,1,1,0,0,0,0,0,0,1,0,0,1,Data Analyst
+Bachelor's,Beginner,Software & Cloud,Working with data,1,0,1,1,0,1,1,1,1,1,0,1,1,1,0,Software Developer
+Master's,Advanced,Business & Product,Solving business problems,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,Business Analyst
+Bachelor's,Intermediate,Software & Cloud,Building products,1,0,0,0,0,0,0,1,1,0,0,1,1,1,0,Software Developer
+Bachelor's,Intermediate,Business & Product,Solving business problems,0,0,1,0,0,0,1,0,0,0,1,1,0,1,1,Business Analyst
+Bachelor's,Beginner,Software & Cloud,Quality and testing,0,1,1,1,0,0,0,1,1,0,0,1,1,1,0,QA Analyst
+Other,Beginner,Software & Cloud,Quality and testing,0,1,0,0,0,1,0,1,1,1,0,1,1,1,0,QA Analyst
+Bachelor's,Beginner,Explore all,Working with data,0,1,1,1,1,0,0,0,0,0,0,1,0,0,1,Data Analyst
+Master's,Advanced,Data & Analytics,Working with data,0,1,1,1,1,0,0,0,0,0,0,1,0,1,1,Data Analyst
+Bachelor's,Beginner,AI & Machine Learning,Artificial intelligence,1,0,0,1,0,1,0,0,0,1,0,0,1,1,0,Machine Learning Engineer
+Diploma,Intermediate,Data & Analytics,Solving business problems,0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,Data Analyst
+Master's,Beginner,Data & Analytics,Working with data,0,1,0,1,1,0,0,0,1,0,0,1,0,0,1,Data Analyst
+Diploma,Intermediate,Business & Product,Solving business problems,0,0,1,0,0,0,0,0,1,0,1,1,1,1,1,Business Analyst
+Diploma,Beginner,Explore all,Solving business problems,0,1,1,1,1,0,0,0,0,1,0,1,0,0,1,Data Analyst
+Diploma,Beginner,Software & Cloud,Building products,1,0,0,0,0,0,1,1,1,1,0,1,1,1,0,Software Developer
+Other,Beginner,Software & Cloud,Building products,1,0,0,0,0,0,0,1,0,1,0,1,1,1,0,Software Developer
+Other,Intermediate,Software & Cloud,Quality and testing,0,1,0,0,1,0,0,1,1,0,0,1,1,1,0,QA Analyst
+Master's,Beginner,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,0,0,0,1,0,1,1,1,0,Machine Learning Engineer
+Master's,Beginner,Business & Product,Solving business problems,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,Business Analyst
+Diploma,Beginner,Business & Product,Solving business problems,0,1,1,1,1,0,0,1,0,0,1,1,1,0,1,Business Analyst
+Master's,Intermediate,AI & Machine Learning,Quality and testing,1,1,0,1,0,1,0,0,0,1,0,0,1,1,0,Machine Learning Engineer
+Diploma,Beginner,Explore all,Working with data,0,1,1,1,1,0,0,1,0,0,0,1,0,0,0,Data Analyst
+Master's,Intermediate,Business & Product,Artificial intelligence,1,1,0,1,0,1,0,0,1,0,0,0,0,0,1,Data Scientist
+Diploma,Beginner,Software & Cloud,Solving business problems,0,1,0,0,0,1,0,1,1,1,1,1,1,1,0,QA Analyst
+Bachelor's,Beginner,Business & Product,Artificial intelligence,0,1,1,1,0,0,0,0,0,1,1,1,1,1,1,Business Analyst
+Master's,Intermediate,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,0,0,0,0,0,0,1,0,1,Data Scientist
+Master's,Intermediate,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,0,0,0,0,0,0,0,0,1,Data Scientist
+Other,Intermediate,Software & Cloud,Quality and testing,0,1,0,0,0,0,0,1,1,0,0,1,1,1,0,QA Analyst
+Diploma,Intermediate,Software & Cloud,Building products,1,0,0,0,0,0,0,1,1,1,0,1,1,1,0,Software Developer
+Bachelor's,Beginner,Data & Analytics,Solving business problems,0,1,1,1,0,1,0,0,0,0,0,1,0,0,1,Data Analyst
+Master's,Intermediate,AI & Machine Learning,Artificial intelligence,1,0,0,1,0,1,0,0,1,1,0,0,1,1,0,Machine Learning Engineer
+Bachelor's,Advanced,Data & Analytics,Artificial intelligence,0,1,1,1,1,1,0,0,0,1,0,1,0,0,1,Data Analyst
+Bachelor's,Beginner,AI & Machine Learning,Artificial intelligence,1,1,0,1,1,1,0,0,0,0,0,1,0,0,1,Data Scientist
+Bachelor's,Intermediate,Business & Product,Solving business problems,0,1,1,0,0,0,0,0,0,0,1,1,1,0,1,Business Analyst
+Other,Intermediate,Software & Cloud,Artificial intelligence,1,0,0,0,0,0,0,1,1,1,0,1,1,1,0,Software Developer
+Master's,Intermediate,AI & Machine Learning,Artificial intelligence,0,1,0,1,0,1,0,1,0,0,0,0,0,0,1,Data Scientist
+Master's,Beginner,Data & Analytics,Working with data,0,1,1,1,1,0,0,0,0,0,0,1,0,0,1,Data Analyst
+Other,Intermediate,Software & Cloud,Working with data,0,1,0,0,0,0,0,0,1,1,0,1,1,1,0,QA Analyst
+Master's,Intermediate,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,0,0,0,1,0,0,1,1,0,Machine Learning Engineer
+Diploma,Beginner,Software & Cloud,Building products,1,0,0,1,0,1,0,1,1,1,1,1,1,1,0,Software Developer
+Master's,Advanced,Data & Analytics,Working with data,0,1,1,1,1,0,0,1,1,0,0,1,0,0,1,Data Analyst
+Master's,Intermediate,AI & Machine Learning,Artificial intelligence,1,1,1,1,0,1,0,0,0,1,0,1,1,1,0,Machine Learning Engineer
+Diploma,Beginner,Software & Cloud,Working with data,0,1,1,0,0,0,0,1,1,0,1,1,1,1,1,QA Analyst
+Bachelor's,Intermediate,Software & Cloud,Quality and testing,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,QA Analyst
+Bachelor's,Beginner,Business & Product,Quality and testing,0,1,0,0,0,0,0,1,0,1,0,1,1,1,0,QA Analyst
+Diploma,Beginner,Business & Product,Solving business problems,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,Business Analyst
+Diploma,Advanced,Data & Analytics,Building products,0,1,1,1,1,0,0,0,1,1,0,1,0,0,0,Data Analyst
+Master's,Advanced,Data & Analytics,Working with data,0,1,1,1,1,0,0,0,0,0,0,1,0,0,1,Data Analyst
+Bachelor's,Advanced,Software & Cloud,Building products,1,0,0,0,0,0,0,1,1,1,0,1,1,1,0,Software Developer
+Diploma,Advanced,Business & Product,Solving business problems,0,0,1,1,1,0,0,0,0,0,1,1,1,1,1,Business Analyst
+Master's,Beginner,AI & Machine Learning,Artificial intelligence,1,1,0,1,1,1,0,0,0,0,0,0,0,0,1,Data Scientist
+Bachelor's,Advanced,AI & Machine Learning,Solving business problems,1,1,0,1,0,1,0,0,0,1,0,0,1,1,0,Machine Learning Engineer
+Master's,Advanced,AI & Machine Learning,Artificial intelligence,0,1,0,1,1,1,0,0,0,0,0,1,0,0,1,Data Scientist
+Master's,Advanced,Data & Analytics,Working with data,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,Data Analyst
+Bachelor's,Intermediate,Software & Cloud,Quality and testing,0,1,1,0,0,1,0,1,0,1,0,1,1,1,0,QA Analyst
+Diploma,Beginner,Business & Product,Solving business problems,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,Business Analyst
+Bachelor's,Advanced,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,0,0,0,1,0,0,1,1,0,Machine Learning Engineer
+Bachelor's,Beginner,Data & Analytics,Working with data,0,1,1,1,1,0,0,0,0,0,0,1,0,1,0,Data Analyst
+Diploma,Beginner,Business & Product,Quality and testing,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,QA Analyst
+Bachelor's,Beginner,AI & Machine Learning,Artificial intelligence,1,1,0,1,1,0,0,0,1,0,0,0,0,0,1,Data Scientist
+Master's,Intermediate,AI & Machine Learning,Artificial intelligence,1,1,0,1,1,1,0,0,0,0,0,0,0,0,1,Data Scientist
+Master's,Intermediate,AI & Machine Learning,Artificial intelligence,1,1,1,1,1,1,0,0,1,0,0,0,1,0,0,Data Scientist
+Bachelor's,Beginner,Software & Cloud,Building products,0,1,1,0,0,0,0,1,1,0,0,1,1,1,0,QA Analyst
+Bachelor's,Beginner,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,0,0,1,1,0,0,1,0,0,Machine Learning Engineer
+Bachelor's,Beginner,Data & Analytics,Building products,1,0,0,0,0,0,0,1,0,1,0,1,1,1,0,Software Developer
+Bachelor's,Beginner,AI & Machine Learning,Quality and testing,1,0,0,1,1,1,0,0,0,0,0,0,0,0,1,Data Scientist
+Diploma,Beginner,Data & Analytics,Quality and testing,1,0,0,0,0,0,0,1,1,1,0,1,1,1,1,Software Developer
+Bachelor's,Beginner,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,0,0,0,1,0,1,1,1,0,Machine Learning Engineer
+Bachelor's,Beginner,Software & Cloud,Quality and testing,0,1,0,0,1,1,0,1,1,0,0,1,1,1,1,QA Analyst
+Master's,Beginner,AI & Machine Learning,Working with data,1,1,0,0,0,1,0,0,0,1,0,0,1,1,0,Machine Learning Engineer
+Bachelor's,Intermediate,Software & Cloud,Quality and testing,1,0,0,0,0,0,0,1,1,1,1,1,1,1,0,Software Developer
+Master's,Beginner,AI & Machine Learning,Artificial intelligence,0,1,0,1,0,1,0,0,0,1,0,0,1,1,0,Machine Learning Engineer
+Bachelor's,Intermediate,Data & Analytics,Building products,1,0,0,0,0,0,0,1,1,1,0,1,1,1,0,Software Developer
+Master's,Intermediate,AI & Machine Learning,Solving business problems,0,1,0,1,1,1,0,0,0,0,0,0,0,0,1,Data Scientist
+Master's,Beginner,AI & Machine Learning,Working with data,0,1,1,1,1,0,0,0,0,0,0,1,0,0,1,Data Analyst
+Diploma,Intermediate,Software & Cloud,Quality and testing,0,1,0,0,1,0,0,1,1,1,1,1,1,1,0,QA Analyst
+Bachelor's,Beginner,Software & Cloud,Artificial intelligence,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,QA Analyst
+Master's,Advanced,AI & Machine Learning,Artificial intelligence,1,0,0,1,0,1,0,0,1,1,0,0,1,1,0,Machine Learning Engineer
+Bachelor's,Intermediate,Business & Product,Solving business problems,0,1,1,0,0,0,0,0,0,0,1,1,1,0,0,Business Analyst
+Diploma,Advanced,Software & Cloud,Working with data,0,0,1,0,0,0,0,0,0,0,1,1,1,1,0,Business Analyst
+Bachelor's,Beginner,Software & Cloud,Building products,1,0,1,0,0,1,0,1,1,1,0,1,1,1,0,Software Developer
+Bachelor's,Intermediate,AI & Machine Learning,Artificial intelligence,1,1,0,1,1,1,0,0,0,1,0,0,1,1,0,Machine Learning Engineer
+Diploma,Beginner,Software & Cloud,Building products,1,0,0,0,0,0,0,1,1,0,0,1,1,1,1,Software Developer
+Bachelor's,Beginner,Data & Analytics,Solving business problems,1,0,1,0,0,0,0,0,0,0,1,1,1,1,1,Business Analyst
+Diploma,Intermediate,Software & Cloud,Quality and testing,0,1,0,1,0,0,0,1,1,0,0,1,1,1,1,QA Analyst
+Diploma,Beginner,Data & Analytics,Working with data,0,1,1,1,1,0,0,0,0,0,0,1,1,0,1,Data Analyst
+Bachelor's,Intermediate,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,0,0,0,1,0,0,1,1,0,Machine Learning Engineer
+Master's,Beginner,AI & Machine Learning,Artificial intelligence,1,0,0,1,0,1,0,0,0,1,0,0,1,1,0,Machine Learning Engineer
+Master's,Beginner,AI & Machine Learning,Quality and testing,1,1,0,1,0,1,0,0,1,1,0,0,1,1,0,Machine Learning Engineer
+Diploma,Beginner,Data & Analytics,Working with data,0,1,1,1,1,1,1,0,0,0,0,1,0,0,1,Data Analyst
+Other,Advanced,Software & Cloud,Building products,1,0,0,0,0,0,0,1,1,1,0,1,1,1,0,Software Developer
+Master's,Advanced,AI & Machine Learning,Artificial intelligence,1,1,0,1,1,1,0,0,0,1,0,0,0,0,1,Data Scientist
+Master's,Beginner,Explore all,Artificial intelligence,1,1,0,0,1,1,0,0,1,0,0,0,0,0,1,Data Scientist
+Bachelor's,Advanced,AI & Machine Learning,Artificial intelligence,1,1,0,1,1,1,0,0,0,0,0,0,0,1,1,Data Scientist
+Bachelor's,Intermediate,AI & Machine Learning,Artificial intelligence,1,1,0,1,1,1,0,0,0,0,1,0,0,0,1,Data Scientist
+Other,Intermediate,Software & Cloud,Building products,0,0,0,0,0,0,0,1,1,1,0,1,0,1,0,Software Developer
+Bachelor's,Beginner,Explore all,Quality and testing,0,1,0,0,0,1,0,0,1,0,0,1,0,1,1,QA Analyst
+Bachelor's,Beginner,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,0,0,0,1,0,0,1,1,0,Machine Learning Engineer
+Diploma,Intermediate,Software & Cloud,Artificial intelligence,1,0,0,0,1,0,1,1,1,1,0,1,1,1,0,Software Developer
+Bachelor's,Intermediate,Data & Analytics,Working with data,0,1,1,1,0,0,0,0,0,0,0,1,0,0,1,Data Analyst
+Bachelor's,Beginner,AI & Machine Learning,Solving business problems,1,0,1,0,0,0,0,0,0,0,1,0,1,1,1,Business Analyst
+Master's,Beginner,Business & Product,Artificial intelligence,1,1,0,1,1,1,0,0,0,0,0,0,0,0,1,Data Scientist
+Master's,Advanced,AI & Machine Learning,Quality and testing,1,1,0,1,0,1,0,0,0,0,0,0,1,1,0,Machine Learning Engineer
+Bachelor's,Beginner,Software & Cloud,Artificial intelligence,1,1,0,1,1,1,0,0,0,0,0,0,0,0,1,Data Scientist
+Diploma,Intermediate,Business & Product,Solving business problems,0,0,1,0,0,0,1,0,0,0,1,1,1,1,1,Business Analyst
+Diploma,Beginner,Data & Analytics,Working with data,1,1,1,1,1,0,1,0,0,0,0,1,0,0,1,Data Analyst
+Master's,Beginner,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,0,0,1,1,0,0,1,1,0,Machine Learning Engineer
+Master's,Intermediate,Business & Product,Working with data,0,1,1,1,1,0,0,0,0,0,0,1,0,0,1,Data Analyst
+Master's,Intermediate,AI & Machine Learning,Artificial intelligence,1,1,0,1,1,1,0,0,0,0,0,0,0,0,1,Data Scientist
+Other,Intermediate,Software & Cloud,Artificial intelligence,1,0,0,0,0,1,0,1,1,0,0,1,1,0,0,Software Developer
+Bachelor's,Intermediate,Business & Product,Solving business problems,0,0,1,0,0,0,0,1,0,1,1,1,1,0,1,Business Analyst
+Master's,Intermediate,Business & Product,Artificial intelligence,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,Business Analyst
+Master's,Beginner,Business & Product,Artificial intelligence,0,0,1,0,0,0,0,0,0,0,1,1,1,1,0,Business Analyst
+Master's,Advanced,AI & Machine Learning,Working with data,1,1,1,1,0,1,0,0,0,1,0,0,1,1,0,Machine Learning Engineer
+Diploma,Beginner,Data & Analytics,Working with data,0,1,1,1,1,0,0,0,0,1,0,1,0,0,1,Data Analyst
+Other,Intermediate,Software & Cloud,Quality and testing,1,1,1,0,1,0,0,1,1,0,0,1,1,1,0,QA Analyst
+Other,Advanced,Software & Cloud,Solving business problems,0,1,0,1,1,0,0,1,1,1,0,1,0,1,0,QA Analyst
+Master's,Beginner,Business & Product,Solving business problems,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,Business Analyst
+Master's,Advanced,AI & Machine Learning,Working with data,1,1,0,1,1,1,0,0,0,0,0,1,0,0,1,Data Scientist
+Diploma,Beginner,Business & Product,Solving business problems,0,0,1,1,1,0,0,0,0,1,1,1,1,1,1,Business Analyst
+Diploma,Beginner,Software & Cloud,Building products,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,QA Analyst
+Master's,Intermediate,AI & Machine Learning,Artificial intelligence,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,Data Scientist
+Bachelor's,Beginner,Data & Analytics,Working with data,0,1,1,1,1,0,0,0,0,0,1,1,1,0,1,Data Analyst
+Master's,Beginner,Business & Product,Solving business problems,1,0,1,0,0,0,0,0,0,0,1,1,1,1,1,Business Analyst
+Master's,Beginner,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,1,1,0,1,0,0,1,1,0,Machine Learning Engineer
+Diploma,Beginner,Data & Analytics,Working with data,0,1,1,1,1,0,0,0,0,0,0,0,0,1,1,Data Analyst
+Diploma,Beginner,Data & Analytics,Working with data,0,1,1,1,1,0,0,0,0,0,0,1,0,0,1,Data Analyst
+Bachelor's,Intermediate,AI & Machine Learning,Artificial intelligence,1,1,0,1,1,1,0,0,0,1,0,1,0,1,0,Data Scientist
+Bachelor's,Intermediate,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,0,0,0,1,0,1,1,1,0,Machine Learning Engineer
+Master's,Advanced,Data & Analytics,Working with data,0,1,1,1,1,0,1,0,0,0,1,1,0,0,1,Data Analyst
+Bachelor's,Advanced,Data & Analytics,Working with data,1,1,1,1,1,1,0,0,0,0,0,1,0,0,1,Data Analyst
+Master's,Advanced,Data & Analytics,Working with data,0,1,1,1,1,0,0,0,0,0,0,1,0,0,1,Data Analyst
+Master's,Beginner,Business & Product,Solving business problems,0,0,1,1,0,0,0,0,0,0,1,1,1,1,1,Business Analyst
+Diploma,Beginner,Business & Product,Solving business problems,0,0,1,0,0,0,0,0,0,0,1,1,1,1,0,Business Analyst
+Other,Intermediate,Software & Cloud,Quality and testing,0,1,0,0,1,0,0,1,1,0,1,1,1,1,0,QA Analyst
+Master's,Beginner,Data & Analytics,Quality and testing,0,1,1,1,1,0,0,0,0,0,0,1,0,1,1,Data Analyst
+Bachelor's,Beginner,Data & Analytics,Working with data,0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,Data Analyst
+Bachelor's,Advanced,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,1,0,0,1,0,0,1,0,0,Machine Learning Engineer
+Bachelor's,Beginner,AI & Machine Learning,Artificial intelligence,1,1,0,1,1,1,0,0,0,0,0,0,0,0,1,Data Scientist
+Diploma,Intermediate,Business & Product,Solving business problems,1,0,1,0,0,0,0,0,0,0,1,1,1,1,1,Business Analyst
+Diploma,Advanced,Explore all,Building products,1,0,0,0,1,0,1,1,1,1,0,1,0,1,0,Software Developer
+Master's,Intermediate,Business & Product,Artificial intelligence,1,0,1,0,0,0,0,0,0,0,1,1,1,1,1,Business Analyst
+Bachelor's,Intermediate,AI & Machine Learning,Artificial intelligence,1,1,0,1,1,1,0,0,0,0,0,0,0,0,1,Data Scientist
+Master's,Intermediate,AI & Machine Learning,Quality and testing,1,1,0,1,1,1,0,0,0,0,0,0,0,0,1,Data Scientist
+Diploma,Intermediate,Software & Cloud,Quality and testing,0,1,0,0,0,0,0,1,1,0,0,1,1,1,0,QA Analyst
+Diploma,Advanced,Explore all,Building products,1,0,0,0,0,0,0,1,1,1,0,1,1,1,0,Software Developer
+Other,Intermediate,Software & Cloud,Quality and testing,0,1,0,0,1,0,0,1,1,1,0,0,1,1,0,QA Analyst
+Bachelor's,Advanced,AI & Machine Learning,Artificial intelligence,1,1,0,1,1,1,1,0,0,0,0,0,0,0,1,Data Scientist
+Master's,Intermediate,Business & Product,Artificial intelligence,1,1,0,1,1,1,0,0,0,1,0,0,1,1,1,Machine Learning Engineer
+Master's,Intermediate,Business & Product,Solving business problems,0,0,1,0,1,0,0,0,0,0,1,1,1,1,1,Business Analyst
+Diploma,Advanced,Software & Cloud,Building products,1,0,0,0,0,0,0,1,1,1,0,1,1,1,0,Software Developer
+Other,Beginner,Business & Product,Building products,1,1,0,0,1,0,0,1,1,1,0,1,1,1,0,Software Developer
+Other,Beginner,Software & Cloud,Quality and testing,1,0,0,0,0,0,0,1,1,1,0,1,1,1,0,Software Developer
+Diploma,Intermediate,Business & Product,Solving business problems,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,Business Analyst
+Master's,Intermediate,Business & Product,Solving business problems,0,0,1,0,1,0,0,0,0,0,1,1,0,1,1,Business Analyst
+Diploma,Beginner,Data & Analytics,Working with data,0,1,1,1,1,0,0,0,0,0,0,1,0,1,0,Data Analyst
+Bachelor's,Intermediate,Data & Analytics,Working with data,0,1,1,1,1,1,0,0,0,0,1,1,0,1,1,Data Analyst
+Bachelor's,Intermediate,Business & Product,Solving business problems,0,0,1,1,0,0,0,0,0,0,1,1,1,1,1,Business Analyst
+Bachelor's,Beginner,AI & Machine Learning,Artificial intelligence,1,1,0,1,1,1,0,0,0,0,0,0,0,0,1,Data Scientist
+Diploma,Advanced,Data & Analytics,Working with data,0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,Data Analyst
+Diploma,Beginner,Business & Product,Quality and testing,0,0,1,0,0,0,1,0,0,0,1,1,0,1,1,Business Analyst
+Diploma,Intermediate,Software & Cloud,Building products,1,0,0,0,0,0,0,1,1,1,0,1,1,1,0,Software Developer
+Master's,Beginner,Data & Analytics,Solving business problems,1,1,0,1,0,1,0,1,0,1,0,0,1,1,0,Machine Learning Engineer
+Bachelor's,Intermediate,Data & Analytics,Working with data,0,1,1,1,1,0,0,0,1,0,0,1,0,0,1,Data Analyst
+Master's,Beginner,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,0,1,0,1,0,0,1,1,0,Machine Learning Engineer
+Bachelor's,Intermediate,Software & Cloud,Building products,1,0,0,0,0,0,0,1,1,0,1,1,0,0,0,Software Developer
+Master's,Beginner,AI & Machine Learning,Artificial intelligence,0,1,0,1,1,1,0,1,0,0,0,0,0,0,1,Data Scientist
+Other,Beginner,Business & Product,Building products,1,0,0,1,0,0,0,1,1,1,0,1,1,1,0,Software Developer
+Diploma,Advanced,Software & Cloud,Building products,1,1,0,1,0,0,0,1,1,1,0,1,1,1,0,Software Developer
+Bachelor's,Beginner,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,0,0,1,1,0,0,1,1,0,Machine Learning Engineer
+Diploma,Beginner,Business & Product,Solving business problems,0,0,1,0,1,0,0,0,0,0,1,1,1,1,1,Business Analyst
+Other,Advanced,Software & Cloud,Quality and testing,1,0,1,0,0,0,0,1,1,0,0,1,1,1,0,Software Developer
+Diploma,Intermediate,Explore all,Quality and testing,0,1,0,0,0,0,0,1,1,0,0,1,1,1,0,QA Analyst
+Bachelor's,Advanced,Data & Analytics,Working with data,0,1,1,1,1,0,0,0,0,0,0,1,0,0,1,Data Analyst
+Bachelor's,Beginner,Software & Cloud,Building products,1,1,0,0,0,0,1,1,1,0,0,0,0,1,0,Software Developer
+Diploma,Intermediate,Business & Product,Solving business problems,0,0,1,0,0,0,0,0,0,0,1,1,0,1,1,Business Analyst
+Diploma,Beginner,Software & Cloud,Quality and testing,0,1,0,1,0,0,1,1,1,0,0,1,1,1,1,QA Analyst
+Bachelor's,Intermediate,Data & Analytics,Working with data,0,1,1,1,1,0,0,0,0,0,0,1,0,0,1,Data Analyst
+Bachelor's,Beginner,Software & Cloud,Quality and testing,0,1,1,1,0,1,1,1,1,0,0,1,1,1,0,QA Analyst
+Master's,Intermediate,AI & Machine Learning,Artificial intelligence,0,1,0,1,0,1,0,0,0,1,0,0,1,1,0,Machine Learning Engineer
+Master's,Intermediate,Data & Analytics,Solving business problems,1,1,0,1,0,1,0,1,0,1,0,0,0,1,1,Machine Learning Engineer
+Diploma,Intermediate,Business & Product,Solving business problems,0,0,1,0,0,0,1,0,0,1,1,1,0,1,1,Business Analyst
+Diploma,Advanced,Software & Cloud,Solving business problems,0,1,0,1,0,0,0,1,1,0,0,1,1,1,0,QA Analyst
+Diploma,Beginner,Software & Cloud,Quality and testing,0,1,1,1,0,0,0,0,1,0,0,1,1,1,0,QA Analyst
+Diploma,Intermediate,Software & Cloud,Quality and testing,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,QA Analyst
+Bachelor's,Intermediate,AI & Machine Learning,Artificial intelligence,1,1,0,1,1,1,0,0,0,0,0,1,0,0,1,Data Scientist
+Diploma,Advanced,Data & Analytics,Working with data,0,1,0,1,1,0,0,0,0,0,0,1,0,0,1,Data Analyst
+Bachelor's,Beginner,AI & Machine Learning,Solving business problems,0,1,0,0,0,0,0,1,1,0,0,1,1,1,0,QA Analyst
+Diploma,Intermediate,Software & Cloud,Working with data,0,1,1,1,1,0,0,0,0,0,1,1,0,0,1,Data Analyst
+Other,Intermediate,Software & Cloud,Quality and testing,0,1,0,0,1,0,0,1,1,1,0,1,1,0,1,QA Analyst
+Bachelor's,Intermediate,AI & Machine Learning,Artificial intelligence,0,1,0,1,1,1,1,1,0,0,0,0,0,0,1,Data Scientist
+Other,Intermediate,Software & Cloud,Building products,1,0,0,0,0,0,1,1,1,1,0,0,1,1,0,Software Developer
+Bachelor's,Beginner,Explore all,Artificial intelligence,1,1,0,1,1,1,0,0,0,1,0,0,1,1,0,Machine Learning Engineer
+Diploma,Intermediate,Data & Analytics,Working with data,0,1,1,1,1,0,0,0,0,0,0,1,0,0,1,Data Analyst
+Diploma,Intermediate,Software & Cloud,Building products,1,0,0,0,0,0,1,1,1,1,0,1,1,1,0,Software Developer
+Bachelor's,Beginner,Software & Cloud,Building products,1,0,0,1,0,0,0,1,1,1,0,1,0,1,0,Software Developer
+Bachelor's,Beginner,Data & Analytics,Working with data,0,1,1,1,1,0,0,0,0,0,0,1,0,0,1,Data Analyst
+Master's,Advanced,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,0,0,0,1,0,0,1,1,1,Machine Learning Engineer
+Diploma,Beginner,Software & Cloud,Quality and testing,0,1,0,0,0,0,0,1,1,0,0,1,1,1,0,QA Analyst
+Other,Intermediate,Explore all,Quality and testing,0,1,0,1,0,1,0,1,1,0,0,1,1,1,0,QA Analyst
+Master's,Intermediate,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,0,1,0,1,0,0,1,1,0,Machine Learning Engineer
+Diploma,Intermediate,Software & Cloud,Quality and testing,0,1,0,0,0,0,0,1,1,1,0,1,1,1,0,QA Analyst
+Bachelor's,Intermediate,Software & Cloud,Building products,1,0,0,0,0,0,0,0,1,1,0,1,1,1,0,Software Developer
+Master's,Intermediate,Software & Cloud,Working with data,1,1,1,1,1,0,0,0,1,0,0,1,0,0,1,Data Analyst
+Bachelor's,Beginner,AI & Machine Learning,Artificial intelligence,1,1,0,1,1,1,0,0,1,1,0,0,0,0,1,Data Scientist
+Bachelor's,Beginner,Software & Cloud,Quality and testing,0,1,0,0,0,0,0,1,1,0,0,1,1,1,0,QA Analyst
+Master's,Intermediate,Business & Product,Artificial intelligence,1,1,0,1,1,0,0,0,0,1,0,0,0,1,1,Data Scientist
+Bachelor's,Advanced,Software & Cloud,Quality and testing,0,0,0,0,0,0,0,1,1,1,0,1,1,1,0,QA Analyst
+Bachelor's,Beginner,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,0,0,0,1,0,0,1,1,0,Machine Learning Engineer
+Diploma,Intermediate,AI & Machine Learning,Solving business problems,0,0,1,0,0,0,0,0,0,0,1,1,1,0,1,Business Analyst
+Other,Beginner,Software & Cloud,Quality and testing,1,1,0,1,0,0,0,1,0,0,0,1,1,1,0,QA Analyst
+Other,Intermediate,Software & Cloud,Quality and testing,0,1,0,0,0,0,0,1,1,0,0,1,1,1,0,QA Analyst
+Diploma,Intermediate,Software & Cloud,Building products,1,0,1,1,1,0,0,0,1,1,0,1,1,0,0,Software Developer
+Diploma,Advanced,Data & Analytics,Solving business problems,0,0,1,0,0,0,0,1,0,0,1,1,1,1,1,Business Analyst
+Diploma,Intermediate,Software & Cloud,Building products,1,0,0,0,0,0,0,1,1,1,0,1,1,1,0,Software Developer
+Other,Beginner,Business & Product,Building products,1,0,0,0,0,0,0,0,1,1,0,1,1,0,0,Software Developer
+Bachelor's,Intermediate,AI & Machine Learning,Quality and testing,1,1,0,1,0,1,1,0,0,1,0,0,1,1,1,Machine Learning Engineer
+Bachelor's,Intermediate,Business & Product,Working with data,0,1,1,0,1,0,0,1,0,0,0,1,0,0,1,Data Analyst
+Master's,Beginner,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,0,0,0,0,1,0,1,1,0,Machine Learning Engineer
+Master's,Intermediate,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,1,0,0,1,0,0,1,1,1,Machine Learning Engineer
+Bachelor's,Intermediate,Data & Analytics,Working with data,0,1,1,1,1,0,0,0,1,0,0,1,0,1,1,Data Analyst
+Diploma,Intermediate,Business & Product,Solving business problems,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,Business Analyst
+Diploma,Beginner,Software & Cloud,Quality and testing,1,1,0,0,0,0,0,0,1,0,0,1,1,1,0,QA Analyst
+Master's,Beginner,Data & Analytics,Working with data,0,1,1,1,1,0,0,0,0,0,0,1,0,1,1,Data Analyst
+Bachelor's,Beginner,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,1,0,0,1,0,0,1,1,0,Machine Learning Engineer
+Other,Beginner,Software & Cloud,Quality and testing,1,0,0,0,0,0,0,1,1,1,0,1,1,1,0,Software Developer
+Bachelor's,Beginner,Software & Cloud,Quality and testing,0,1,0,0,0,0,0,1,1,0,0,1,1,0,0,QA Analyst
+Other,Beginner,Software & Cloud,Building products,1,0,1,0,0,0,0,1,1,1,0,1,1,1,0,Software Developer
+Master's,Beginner,AI & Machine Learning,Artificial intelligence,1,1,1,1,0,1,0,0,0,1,1,0,1,1,0,Machine Learning Engineer
+Bachelor's,Advanced,Software & Cloud,Building products,1,0,0,0,0,1,0,1,1,1,0,1,1,1,0,Software Developer
+Master's,Advanced,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,0,1,0,1,0,0,1,1,0,Machine Learning Engineer
+Bachelor's,Beginner,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,0,0,0,1,0,0,1,1,0,Machine Learning Engineer
+Master's,Advanced,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,0,0,0,1,1,0,1,1,1,Machine Learning Engineer
+Bachelor's,Intermediate,AI & Machine Learning,Artificial intelligence,1,1,0,1,1,1,1,0,0,0,0,0,0,0,1,Data Scientist
+Master's,Intermediate,Data & Analytics,Working with data,0,1,1,1,1,1,0,0,0,0,0,1,1,0,1,Data Analyst
+Bachelor's,Beginner,Software & Cloud,Artificial intelligence,0,1,0,0,0,0,0,1,1,0,0,1,1,1,0,QA Analyst
+Bachelor's,Advanced,Software & Cloud,Quality and testing,1,1,0,0,0,0,0,1,1,0,0,0,1,1,0,QA Analyst
+Other,Intermediate,Software & Cloud,Building products,1,0,0,0,1,0,1,1,1,1,0,1,1,0,1,Software Developer
+Master's,Advanced,AI & Machine Learning,Artificial intelligence,0,1,0,1,1,1,1,0,0,0,1,0,0,0,1,Data Scientist
+Master's,Beginner,Explore all,Working with data,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,Business Analyst
+Diploma,Beginner,Business & Product,Building products,0,1,1,0,0,0,0,0,1,0,1,1,1,1,1,Business Analyst
+Master's,Beginner,AI & Machine Learning,Artificial intelligence,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,Data Scientist
+Bachelor's,Advanced,AI & Machine Learning,Artificial intelligence,1,1,0,0,1,1,0,0,0,0,0,1,0,0,1,Data Scientist
+Bachelor's,Beginner,Data & Analytics,Artificial intelligence,0,0,1,0,0,1,0,0,0,0,1,1,1,0,1,Business Analyst
+Diploma,Intermediate,Business & Product,Solving business problems,0,1,0,0,0,0,0,0,0,0,1,1,1,1,1,Business Analyst
+Master's,Intermediate,Business & Product,Solving business problems,0,1,1,0,0,0,0,0,0,0,1,0,1,1,1,Business Analyst
+Bachelor's,Intermediate,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,0,1,0,1,0,1,1,1,0,Machine Learning Engineer
+Master's,Beginner,Business & Product,Solving business problems,0,0,1,0,0,0,1,0,0,0,1,1,1,1,1,Business Analyst
+Master's,Intermediate,AI & Machine Learning,Artificial intelligence,1,1,0,0,0,1,1,0,0,1,0,0,1,1,0,Machine Learning Engineer
+Diploma,Beginner,Business & Product,Quality and testing,0,1,0,0,0,0,0,1,1,0,0,1,0,1,1,QA Analyst
+Bachelor's,Intermediate,Data & Analytics,Working with data,0,1,1,1,1,0,0,0,0,0,0,1,0,0,1,Data Analyst
+Diploma,Beginner,Software & Cloud,Quality and testing,0,1,0,0,0,0,0,1,1,0,0,1,1,0,0,QA Analyst
+Other,Beginner,Software & Cloud,Building products,1,0,0,0,0,0,0,1,1,1,0,1,1,1,0,Software Developer
+Other,Beginner,Software & Cloud,Quality and testing,1,1,0,0,0,0,0,1,1,0,0,1,1,1,0,QA Analyst
+Bachelor's,Beginner,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,0,0,0,1,0,0,1,1,0,Machine Learning Engineer
+Diploma,Intermediate,Software & Cloud,Working with data,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,QA Analyst
+Other,Beginner,Software & Cloud,Building products,1,0,0,1,0,0,0,1,1,1,0,1,1,1,0,Software Developer
+Bachelor's,Intermediate,Business & Product,Solving business problems,0,0,1,0,0,0,0,0,1,0,1,1,1,1,1,Business Analyst
+Diploma,Beginner,Software & Cloud,Building products,0,0,0,0,0,0,0,0,1,1,0,1,1,1,0,Software Developer
+Diploma,Intermediate,Software & Cloud,Building products,1,0,1,0,1,0,0,1,1,1,0,1,0,1,0,Software Developer
+Other,Beginner,Software & Cloud,Quality and testing,1,1,0,1,0,0,0,1,1,0,0,1,1,1,0,QA Analyst
+Diploma,Advanced,Software & Cloud,Building products,0,1,0,0,0,0,0,1,1,0,0,1,1,1,0,QA Analyst
+Bachelor's,Advanced,AI & Machine Learning,Artificial intelligence,1,1,1,0,1,1,0,1,0,0,0,0,0,0,1,Data Scientist
+Master's,Beginner,Data & Analytics,Quality and testing,1,1,0,1,1,1,1,0,0,0,0,0,0,0,1,Data Scientist
+Bachelor's,Beginner,Software & Cloud,Artificial intelligence,1,1,0,0,0,0,0,1,1,0,0,1,1,1,0,QA Analyst
+Bachelor's,Intermediate,Software & Cloud,Building products,1,0,0,0,0,0,0,1,1,1,0,1,1,1,1,Software Developer
+Bachelor's,Advanced,Data & Analytics,Working with data,1,0,1,1,1,0,0,0,1,1,0,1,0,0,1,Data Analyst
+Bachelor's,Beginner,AI & Machine Learning,Artificial intelligence,1,0,0,1,1,1,0,0,0,0,0,0,0,0,1,Data Scientist
+Master's,Intermediate,AI & Machine Learning,Artificial intelligence,1,1,0,1,1,1,0,1,0,0,0,0,0,0,1,Data Scientist
+Bachelor's,Intermediate,Data & Analytics,Working with data,0,1,1,1,1,0,0,0,0,0,0,1,0,0,1,Data Analyst
+Bachelor's,Beginner,Data & Analytics,Working with data,1,1,1,1,1,0,0,0,0,0,0,1,1,0,0,Data Analyst
+Bachelor's,Beginner,Software & Cloud,Artificial intelligence,0,1,1,1,1,1,0,0,0,0,0,0,0,0,1,Data Scientist
+Master's,Beginner,AI & Machine Learning,Quality and testing,1,1,0,1,0,1,0,0,0,1,0,0,0,1,0,Machine Learning Engineer
+Master's,Intermediate,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,0,0,0,1,1,0,1,1,0,Machine Learning Engineer
+Master's,Beginner,AI & Machine Learning,Artificial intelligence,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,Data Scientist
+Bachelor's,Intermediate,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,0,0,0,1,0,0,1,1,0,Machine Learning Engineer
+Other,Intermediate,Software & Cloud,Quality and testing,0,1,0,0,1,0,0,1,0,0,0,1,1,1,1,QA Analyst
+Diploma,Advanced,Data & Analytics,Working with data,0,1,1,1,1,0,0,0,0,0,0,1,0,1,1,Data Analyst
+Diploma,Intermediate,Software & Cloud,Quality and testing,0,1,1,0,0,0,0,1,1,0,0,1,1,1,0,QA Analyst
+Bachelor's,Advanced,AI & Machine Learning,Artificial intelligence,1,1,0,1,1,1,0,0,0,0,0,0,0,0,1,Data Scientist
+Bachelor's,Beginner,Software & Cloud,Artificial intelligence,0,0,1,0,1,0,0,0,0,0,1,1,1,1,1,Business Analyst
+Diploma,Beginner,Business & Product,Solving business problems,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,Business Analyst
+Bachelor's,Beginner,Software & Cloud,Building products,1,0,0,0,0,0,0,1,1,1,0,1,1,1,0,Software Developer
+Bachelor's,Intermediate,AI & Machine Learning,Building products,1,1,0,1,1,1,0,1,0,1,0,0,0,0,1,Data Scientist
+Diploma,Beginner,Data & Analytics,Working with data,0,1,1,1,1,0,0,1,0,0,0,1,0,0,1,Data Analyst
+Bachelor's,Advanced,Business & Product,Solving business problems,0,1,1,0,0,0,0,0,0,0,1,1,1,1,0,Business Analyst
+Bachelor's,Beginner,Software & Cloud,Quality and testing,0,1,0,0,0,0,0,1,1,0,0,1,1,1,0,QA Analyst
+Bachelor's,Beginner,Business & Product,Solving business problems,0,0,1,1,0,0,0,0,0,0,1,1,1,1,1,Business Analyst
+Bachelor's,Beginner,AI & Machine Learning,Artificial intelligence,1,0,0,1,0,0,0,0,0,1,0,0,1,1,0,Machine Learning Engineer
+Bachelor's,Advanced,Software & Cloud,Building products,1,0,0,0,0,0,0,1,1,0,1,0,1,1,0,Software Developer
+Bachelor's,Beginner,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,0,0,1,0,0,1,0,0,1,Data Scientist
+Bachelor's,Advanced,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,0,0,0,1,0,0,1,1,0,Machine Learning Engineer
+Master's,Intermediate,AI & Machine Learning,Artificial intelligence,1,1,0,1,1,1,0,0,1,1,1,1,0,1,1,Data Scientist
+Bachelor's,Intermediate,Data & Analytics,Working with data,0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,Data Analyst
+Diploma,Beginner,Business & Product,Solving business problems,0,0,1,1,1,0,0,0,0,0,1,1,1,1,1,Business Analyst
+Master's,Intermediate,Data & Analytics,Working with data,0,1,0,1,1,0,0,0,0,0,0,1,1,0,1,Data Analyst
+Bachelor's,Beginner,AI & Machine Learning,Artificial intelligence,1,1,0,1,1,1,0,0,0,0,1,0,0,0,1,Data Scientist
+Bachelor's,Intermediate,AI & Machine Learning,Artificial intelligence,1,0,0,1,0,1,0,0,0,1,0,0,1,1,0,Machine Learning Engineer
+Master's,Beginner,AI & Machine Learning,Solving business problems,1,1,0,1,0,1,0,1,0,1,0,0,1,1,0,Machine Learning Engineer
+Diploma,Beginner,Software & Cloud,Building products,1,0,0,0,0,0,0,1,1,1,0,1,1,0,0,Software Developer
+Bachelor's,Beginner,AI & Machine Learning,Artificial intelligence,1,1,0,1,1,1,0,0,0,0,0,0,0,0,1,Data Scientist
+Diploma,Intermediate,Explore all,Working with data,0,1,1,1,1,0,0,0,0,0,0,1,0,0,1,Data Analyst
+Other,Advanced,Software & Cloud,Building products,1,0,0,0,0,0,0,1,1,1,0,1,1,1,0,Software Developer
+Other,Intermediate,Software & Cloud,Artificial intelligence,1,0,0,1,0,0,0,1,1,1,1,1,1,1,0,Software Developer
+Diploma,Beginner,Software & Cloud,Quality and testing,0,1,1,0,0,0,1,1,1,0,1,1,1,1,0,QA Analyst
+Master's,Advanced,Business & Product,Solving business problems,0,1,1,0,0,0,0,0,0,1,1,1,1,1,0,Business Analyst
+Master's,Beginner,Software & Cloud,Artificial intelligence,1,1,0,1,1,1,0,0,0,1,1,0,1,1,0,Machine Learning Engineer
+Master's,Intermediate,Data & Analytics,Working with data,0,1,1,1,1,0,0,0,1,0,0,1,0,0,1,Data Analyst
+Master's,Intermediate,Software & Cloud,Solving business problems,1,0,1,1,0,0,0,0,0,0,1,1,1,1,1,Business Analyst
+Other,Intermediate,Software & Cloud,Solving business problems,0,1,0,0,0,0,1,1,1,0,0,1,1,1,0,QA Analyst
+Other,Beginner,Software & Cloud,Quality and testing,1,0,0,0,0,0,0,0,1,1,0,1,1,1,1,Software Developer
+Other,Beginner,Software & Cloud,Quality and testing,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,QA Analyst
+Master's,Intermediate,Data & Analytics,Artificial intelligence,1,0,0,1,0,1,0,0,0,1,0,0,1,1,1,Machine Learning Engineer
+Bachelor's,Advanced,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,0,0,0,1,1,0,0,1,0,Machine Learning Engineer
+Other,Intermediate,Software & Cloud,Quality and testing,0,1,0,0,0,0,1,1,0,0,0,1,1,1,0,QA Analyst
+Bachelor's,Intermediate,AI & Machine Learning,Artificial intelligence,1,1,0,1,1,1,0,0,0,0,0,0,1,0,1,Data Scientist
+Other,Beginner,Software & Cloud,Building products,1,0,0,1,1,0,0,1,1,1,0,1,1,1,0,Software Developer
+Bachelor's,Advanced,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,1,0,0,0,0,0,0,0,0,1,Data Scientist
+Diploma,Beginner,Data & Analytics,Working with data,0,1,1,1,1,1,0,0,0,0,0,1,0,0,0,Data Analyst
+Bachelor's,Intermediate,AI & Machine Learning,Artificial intelligence,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,Data Scientist
+Master's,Beginner,AI & Machine Learning,Artificial intelligence,1,1,0,1,1,1,0,0,0,0,0,0,0,0,1,Data Scientist
+Bachelor's,Beginner,Software & Cloud,Artificial intelligence,1,1,0,1,0,1,0,0,0,1,0,0,0,0,0,Machine Learning Engineer
+Master's,Beginner,Explore all,Artificial intelligence,1,1,0,1,0,1,0,0,0,1,0,0,1,1,0,Machine Learning Engineer
+Bachelor's,Beginner,AI & Machine Learning,Artificial intelligence,1,1,0,1,1,1,0,0,0,1,1,0,1,1,0,Machine Learning Engineer
+Master's,Beginner,Data & Analytics,Working with data,0,1,1,1,1,0,1,0,0,0,0,1,0,1,1,Data Analyst
+Bachelor's,Intermediate,AI & Machine Learning,Working with data,1,1,1,1,0,1,0,0,0,1,0,0,1,1,0,Machine Learning Engineer
+Bachelor's,Advanced,Software & Cloud,Building products,1,0,1,0,0,0,1,1,1,1,0,1,1,1,1,Software Developer
+Diploma,Beginner,Business & Product,Solving business problems,0,0,1,1,0,0,0,0,0,0,1,0,1,1,1,Business Analyst
+Bachelor's,Beginner,Software & Cloud,Quality and testing,1,1,0,1,0,0,0,1,1,1,0,1,1,1,0,QA Analyst
+Diploma,Beginner,AI & Machine Learning,Building products,1,0,0,1,0,0,0,1,1,1,0,1,1,1,0,Software Developer
+Diploma,Intermediate,Data & Analytics,Working with data,0,1,1,1,1,0,0,0,0,0,0,1,0,0,1,Data Analyst
+Bachelor's,Beginner,AI & Machine Learning,Building products,1,0,0,0,0,0,0,1,1,1,0,1,1,1,0,Software Developer
+Diploma,Beginner,AI & Machine Learning,Building products,0,1,1,1,1,0,0,0,1,0,0,1,0,0,1,Data Analyst
+Bachelor's,Intermediate,AI & Machine Learning,Building products,1,0,0,0,0,0,0,1,1,1,0,1,1,1,0,Software Developer
+Other,Beginner,Software & Cloud,Building products,1,0,0,1,0,0,0,1,1,1,0,1,1,1,0,Software Developer
+Other,Beginner,Software & Cloud,Building products,1,0,0,0,0,0,0,1,1,1,0,1,1,1,0,Software Developer
+Bachelor's,Intermediate,AI & Machine Learning,Working with data,1,1,0,1,1,1,0,0,0,0,0,0,0,0,1,Data Scientist
+Bachelor's,Intermediate,Business & Product,Building products,1,0,0,0,0,0,0,1,1,1,0,1,1,1,0,Software Developer
+Master's,Advanced,AI & Machine Learning,Artificial intelligence,1,1,0,1,1,1,0,0,0,0,0,0,0,0,1,Data Scientist
+Master's,Intermediate,AI & Machine Learning,Artificial intelligence,1,1,0,1,1,1,0,0,0,0,0,0,0,0,1,Data Scientist
+Master's,Intermediate,AI & Machine Learning,Artificial intelligence,1,1,0,1,1,1,0,0,1,0,0,0,0,0,1,Data Scientist
+Master's,Beginner,Business & Product,Artificial intelligence,1,1,0,1,1,1,0,0,0,0,0,0,1,0,1,Data Scientist
+Master's,Beginner,Business & Product,Solving business problems,0,0,1,0,1,0,0,0,0,0,1,1,0,1,1,Business Analyst
+Bachelor's,Intermediate,AI & Machine Learning,Artificial intelligence,0,1,0,1,1,1,0,0,0,0,0,0,0,0,1,Data Scientist
+Master's,Intermediate,AI & Machine Learning,Artificial intelligence,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,Data Scientist
+Bachelor's,Beginner,Software & Cloud,Building products,1,0,0,0,0,0,0,1,1,1,0,1,1,1,0,Software Developer
+Master's,Beginner,Explore all,Artificial intelligence,1,1,0,0,1,1,1,0,1,1,0,0,1,1,0,Machine Learning Engineer
+Bachelor's,Beginner,AI & Machine Learning,Building products,1,1,1,0,0,1,0,0,1,1,1,0,1,1,0,Machine Learning Engineer
+Bachelor's,Beginner,AI & Machine Learning,Artificial intelligence,1,1,1,1,0,1,0,1,0,1,0,0,1,1,0,Machine Learning Engineer
+Diploma,Intermediate,Software & Cloud,Building products,1,0,0,0,0,0,0,1,1,1,0,1,0,1,0,Software Developer
+Other,Intermediate,Data & Analytics,Building products,1,0,0,0,0,0,0,1,1,1,0,1,1,1,0,Software Developer
+Bachelor's,Beginner,Software & Cloud,Artificial intelligence,0,1,0,0,0,0,1,1,1,0,0,1,1,1,0,QA Analyst
+Bachelor's,Intermediate,Business & Product,Artificial intelligence,1,1,0,1,1,1,0,0,0,1,0,0,0,0,1,Data Scientist
+Diploma,Intermediate,AI & Machine Learning,Quality and testing,0,1,1,0,0,0,0,1,1,0,1,1,1,1,0,QA Analyst
+Master's,Advanced,Business & Product,Solving business problems,1,0,1,1,0,0,0,0,0,0,1,1,1,1,1,Business Analyst
+Master's,Beginner,Business & Product,Solving business problems,0,1,1,0,0,0,0,0,0,0,1,1,1,1,1,Business Analyst
+Bachelor's,Beginner,Software & Cloud,Building products,1,0,0,0,0,0,0,1,1,1,0,0,1,1,0,Software Developer
+Diploma,Beginner,Business & Product,Solving business problems,0,0,1,0,0,0,1,0,0,0,1,1,1,1,0,Business Analyst
+Master's,Beginner,Business & Product,Solving business problems,0,0,1,0,1,0,0,0,0,0,1,1,1,1,0,Business Analyst
+Bachelor's,Advanced,AI & Machine Learning,Artificial intelligence,1,1,0,1,1,1,0,0,0,1,0,0,0,0,1,Data Scientist
+Master's,Intermediate,Business & Product,Solving business problems,1,0,1,0,0,0,1,0,0,0,1,1,1,1,1,Business Analyst
